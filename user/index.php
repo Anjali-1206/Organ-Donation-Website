@@ -22,7 +22,7 @@
 							
 								<div class="alert alert-danger alert-dismissable" style="font-size: 18px; display: none;">
     						
-    								<strong>Warning!</strong> Are you sure you want a save the life if you press yes, then you will not be able to show before 3 months.
+    								<strong>Warning!</strong> Are you sure you want a save the life.
     							
     							<div class="buttons" style="padding: 20px 10px;">
     								<input type="text" value="" hidden="true" name="today">
