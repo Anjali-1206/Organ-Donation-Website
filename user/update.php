@@ -32,7 +32,7 @@
 							</div>
 							<div class="form-group">
 					              <label for="name">Organ</label><br>
-					              <select class="form-control demo-default" required id="organ_group" name="organ_group" required>
+					              <select class="form-control demo-default" required id="organ" name="organ" required>
 					                <option value=""> </option>
 					                <option value="Heart">Heart</option>
 					                <option value="Kidney">Kidney</option>
