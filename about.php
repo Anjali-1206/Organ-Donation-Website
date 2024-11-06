@@ -52,11 +52,9 @@
 			<h2 class="text-center">Our Vission</h2>
 			<hr class="red-bar">
 			<p>
-				We are a group of exceptional programmers; our aim is to promote education. If you are a student, then contact us to secure your future. We deliver free international standard video lectures and content. We are also providing services in Web & Software Development.
+				Our prime focus has always been and will always be to serve humanity unconditionally. Our vision is to bridge the gap between the number of people who need organs and the number of people who donate organs. We want to ensure that the maximum number of people pledge their organs for donation.We also aim to make the process of organ transplantation smoother and faster.
 			</p>
-			<p>
-				We are a group of exceptional programmers; our aim is to promote education. If you are a student, then contact us to secure your future. We deliver free international standard video lectures and content. We are also providing services in Web & Software Development.
-			</p>
+				
 		</div>
 	</div>
 	</div>
@@ -70,10 +68,7 @@
 			<h2 class="text-center">Our Goal</h2>
 			<hr class="red-bar">
 			<p>
-				We are a group of exceptional programmers; our aim is to promote education. If you are a student, then contact us to secure your future. We deliver free international standard video lectures and content. We are also providing services in Web & Software Development.
-			</p>
-			<p>
-				We are a group of exceptional programmers; our aim is to promote education. If you are a student, then contact us to secure your future. We deliver free international standard video lectures and content. We are also providing services in Web & Software Development.
+				The primary goal of organ donation is to save or improve the life of someone who needs a transplant. Organ donation can help people with organ failure or serious medical conditions that have led to organ malfunction or loss. Organ donation can save up to eight lives. A single organ donor can save up to seven lives. A donated kidney can help a patient avoid dialysis, while a donated heart can give someone a new lease on life. 
 			</p>
 		</div>
 		<div ><img src="img/target.png" alt="Our Vission" class="rounded img-fluid float-right"></div>
@@ -91,11 +86,14 @@
 			<h2 class="text-center">Our Mission</h2>
 			<hr class="red-bar">
 			<p>
-				We are a group of exceptional programmers; our aim is to promote education. If you are a student, then contact us to secure your future. We deliver free international standard video lectures and content. We are also providing services in Web & Software Development.
+				To increase the number of donor pledges in India through large-scale information dissemination via various media and platforms such as social media, radio, television, awareness sessions in schools, colleges, hospitals and other institutions, and training others to carry out the
+programme.
+To educate those suffering from organ failure about their various options, and to help them in their ordeal by offering information, advice, counselling, and offering monetary help, if possible, preventing the illness and death of those with organ failure.
 			</p>
-			<p>
-				We are a group of exceptional programmers; our aim is to promote education. If you are a student, then contact us to secure your future. We deliver free international standard video lectures and content. We are also providing services in Web & Software Development.
-			</p>
+							</div>
+   			 		</div>
+ 			</div>
+			
 		</div>
 	</div>
 	</div>
