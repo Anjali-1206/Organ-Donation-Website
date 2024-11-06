@@ -31,17 +31,16 @@
 								<input type="text" required name="name" class="form-control" value="">
 							</div>
 							<div class="form-group">
-					              <label for="name">Blood Group</label><br>
-					              <select class="form-control demo-default" required id="blood_group" name="blood_group" required>
+					              <label for="name">Organ</label><br>
+					              <select class="form-control demo-default" required id="organ_group" name="organ_group" required>
 					                <option value=""> </option>
-					                <option value="A+">A+</option>
-					                <option value="A-">A-</option>
-					                <option value="B+">B+</option>
-					                <option value="B-">B-</option>
-					                <option value="O+">O+</option>
-					                <option value="O-">O+</option>
-					                <option value="AB+">AB+</option>
-					                <option value="AB-">AB-</option>
+					                <option value="Heart">Heart</option>
+					                <option value="Kidney">Kidney</option>
+					                <option value="Lungs">Lungs</option>
+					                <option value="Pancreas">Pancreas</option>
+					                <option value="Intestine">Intestine</option>
+					                <option value="Liver">Liver</option>
+					                
 					              </select>
 					        </div><!--End form-group-->
 							<div class="form-group">
@@ -49,7 +48,7 @@
 				              		<select name="gender" id="gender" class="form-control" required>
 				              			<option value=""></option>
 				              			<option value="Male">Male</option>
-				              			<option value="Fe-male">Fe-male</option>
+				              			<option value="Female">Female</option>
 				              		</select>
 				    		</div><!--gender-->
 				    		<div class="form-group">
