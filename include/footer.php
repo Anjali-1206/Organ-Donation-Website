@@ -1,4 +1,5 @@
-<!-- contact us section -->
+
+			<!-- contact us section -->
 			<div class="container-fluid">					
 				<div class="row contactus">
 					<div class="col-md-6 offset-md-3">
@@ -12,7 +13,7 @@
 							</h1>
 
 							<div class="details">
-								 <p>  9800678907 <i class="fa fa-phone"></i>
+								 <p> 88 567 1234456 <i class="fa fa-phone"></i>
 								gcoea@gmail.com <i class="fa fa-envelope"></i>  </p>
 							</div>
 
@@ -20,8 +21,7 @@
 				</div>
 			</div>
 			<!-- end contact us section -->
-			
-	    <!-- JQuery File -->
+<!-- JQuery File -->
     <script type="text/javascript" src="jquery/jquery.js"></script>
     
     <!-- BootStrap JS File-->
