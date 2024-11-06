@@ -54,17 +54,15 @@ box-shadow: 0px 2px 5px -2px rgba(89,89,89,0.95);
 						<input type="text" name="name" id="fullname" placeholder="Full Name" required pattern="[A-Za-z/\s]+" title="Only lower and upper case and space" class="form-control">
 					</div><!--full name-->
 					<div class="form-group">
-              <label for="name">Blood Group</label><br>
-              <select class="form-control demo-default" id="blood_group" name="blood_group" required>
-                <option value="">---Select Your Blood Group---</option>
-                <option value="A+">A+</option>
-                <option value="A-">A-</option>
-                <option value="B+">B+</option>
-                <option value="B-">B-</option>
-                <option value="O+">O+</option>
-                <option value="O-">O+</option>
-                <option value="AB+">AB+</option>
-                <option value="AB-">AB-</option>
+              <label for="name">Organs</label><br>
+              <select class="form-control demo-default" id="organ-Donate" name="organ-Donate" required>
+                <option value="">---Select the Organ---</option>
+                                                        <option value="Heart">Heart</option>
+					                <option value="Kidney">Kidney</option>
+					                <option value="Lungs">Lungs</option>
+					                <option value="Pancreas">Pancreas</option>
+					                <option value="Intestine">Intestine</option>
+					                <option value="Liver">Liver</option>
               </select>
             </div><!--End form-group-->
 					<div class="form-group">
